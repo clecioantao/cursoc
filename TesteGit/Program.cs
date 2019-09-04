@@ -7,6 +7,7 @@ namespace Course {
 
             ContaBancaria conta;
 
+            Console.WriteLine("Bom dia!");
             Console.Write("Entre o número da conta: ");
             int numero = int.Parse(Console.ReadLine());
             Console.Write("Entre o titular da conta: ");
